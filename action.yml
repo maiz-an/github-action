@@ -1,0 +1,10 @@
+name: 'SPIDY BRO Action'
+description: 'A simple GitHub Action that says hello'
+author: 'SPIDY BRO'
+branding:
+  icon: 'zap'
+  color: 'blue'
+
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
