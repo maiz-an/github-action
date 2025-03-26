@@ -4,7 +4,6 @@ author: 'SPIDY BRO'
 branding:
   icon: 'zap'
   color: 'blue'
-
 runs:
   using: 'docker'
   image: 'Dockerfile'
